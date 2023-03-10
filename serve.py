@@ -11,11 +11,11 @@ def indexpage():
 		return render_template("index2.html")
 	return render_template("index2.html")
 
-@app.route("/entry", methods=['POST'])
+@app.route("/entry", methods=['POST'])	
 def entry():
 	req = request.get_json()
 	print(req)
-	res = make_response(jsonify({"name":"{}.".format(chat(req)),"message":"OK"}), 200)
+	res = make_response(jsonify ({"name":"{}.".format(chat(req)),"message":"OK"}), 200)
 	return res
 
 

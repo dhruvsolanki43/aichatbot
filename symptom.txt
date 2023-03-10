@@ -1,205 +1,208 @@
+Stopped Growth :<br>  
+pred_diseases:'Growth Disorder, Turner Syndrome',<br>
+analgesics: 'Thyroid hormone pills, growth hormone injections',<br>
+treatment scans:'Bone Age Xray, MRI scan',<br>
+'Meat, Seafood,Leafygreens,Diary,Spinach, Beef'<br>
+ Enter your pincode to see available doctors near by you: .
 
-Stopped Growth :-->  
-pred_diseases:'Growth Disorder, Turner Syndrome',
-analgesics: 'Thyroid hormone pills, growth hormone injections', 
-treatment scans:'Bone Age Xray, MRI scan', 
-'Meat, Seafood,Leafygreens,Diary,Spinach, Beef'
- -------> Enter your pincode to see available doctors near by you .
-
-Wheezing, Coughing and troubled breathing,chest pain -->pred_diseases: Asthma;
-analgesics: Metered dose inhalers, nebulizers;
-treatment scans:Asthma therapy; 
-diet:Fruits and vegetables
+Wheezing, Coughing and troubled breathing,chest pain <br>
+pred_diseases: Asthma;<br>
+analgesics: Metered dose inhalers, nebulizers;<br>
+treatment scans:Asthma therapy;<br>
+diet:Fruits and vegetables<br>
   -------> Enter your pincode to see available doctors near by you .
 
-baby too small, weight<5.5 pounds-->pred_diseases:  'Learning disabilities', 
-analgesics: 'iron supplements', 
-treatment scans:'Temperature Control Incubator', 
-diet:'iron supplements'
+baby too small, weight<5.5 pounds<br>
+pred_diseases:  'Learning disabilities',<br>
+analgesics: 'iron supplements',<br>
+treatment scans:'Temperature Control Incubator',<br>
+diet:'iron supplements'<br>
  -------> Enter your pincode to see available doctors near by you.
 
-Repetetive behaviour,prefers to be alone-->pred_diseases: 'Autism\r\n',
-analgesics: 'Ketamine, Midazolem', 
-treatment scans:'Teach social skills and cognitive behaviour',
- diet: 'Only yelow or white foods such as rice, potatoes or pasta and strictly avoid diary'
+Repetetive behaviour,prefers to be alone :
+pred_diseases: 'Autism\r\n',<br>
+analgesics: 'Ketamine, Midazolem', <br>
+treatment scans:'Teach social skills and cognitive behaviour',<br>
+ diet: 'Only yelow or white foods such as rice, potatoes or pasta and strictly avoid diary'<br>
   -------> Enter your pincode to see available doctors near by you.
 
-Self-destructiveness,sadness and being upset-->
-pred_diseases: 'Depression', 
-analgesics: 'Prozac, Zoloft or Celexa',
-treatment scans:'Constantly praise him, teach skills, and give self-development talks',
+Self-destructiveness,sadness and being upset :<br>
+pred_diseases: 'Depression', <br>
+analgesics: 'Prozac, Zoloft or Celexa',<br>
+treatment scans:'Constantly praise him, teach skills, and give self-development talks',<br>
  diet: 'Fish and whole grains'.
 
-Paleness, loss of energy, weightloss and easy bruising--pred_diseases: 'Cancer or Brain Tumor',
-analgesics: 'Morphine or Ibuprofen', 
-treatment scans:'Chemotherapy or Stem cell transplant',
+Paleness, loss of energy, weightloss and easy bruising<br>
+pred_diseases: 'Cancer or Brain Tumor',<br>
+analgesics: 'Morphine or Ibuprofen', <br>
+treatment scans:'Chemotherapy or Stem cell transplant',<br>
  diet: 'Cheese, Meat, Seafood, Diary and Eggs'.
 
-Fever,fever up to 102f, Tiredness or Loss of Appetitse-->
-pred_diseases:'Chickenpox', 
-analgesics: 'Acetaminophen', 
-treatment scans:'lukewarm bath and apply calamine lotion to itchy areas', 
+Fever,fever up to 102f, Tiredness or Loss of Appetitse:<br>
+pred_diseases:'Chickenpox', <br>
+analgesics: 'Acetaminophen', <br>
+treatment scans:'lukewarm bath and apply calamine lotion to itchy areas', <br>
 diet: 'Raw fruits, Vegetables, Meat, Pastured eggs and avoid salty foods'.
 
-easy tiredness and overweight-->
-pred_diseases:'Obesity', 
-analgesics: 'Not suggested to take analgesics for obesity', 
-treatment scans:'building heathy eating ang drinking habits and physical activities like exercise', 
-diet: 'Fruits and vegetables, and avoid skipping breakfast'
+easy tiredness and overweight:<br>
+pred_diseases:'Obesity', <br>
+analgesics: 'Not suggested to take analgesics for obesity', <br>
+treatment scans:'building heathy eating ang drinking habits and physical activities like exercise', <br>
+diet: 'Fruits and vegetables, and avoid skipping breakfast'<br>
  -------> Enter your pincode to see available doctors near by you.
 
-Severe tooth ache-->
-pred_diseases:'Cavities\r\n',
-analgesics:  'Ibuprofen or Aspirin',
-treatment scans: 'Fluoride toothpaste', 
+Severe tooth ache:<br>
+pred_diseases:'Cavities\r\n',<br>
+analgesics:  'Ibuprofen or Aspirin',<br>
+treatment scans: 'Fluoride toothpaste', <br>
 diet: 'juices and avoid sweets, chocolates and unhealthy snacks'.
 
-Often urinating, slow healing of bruises, weightloss-->
-pred_diseases:  'Diabetes', 
-analgesics: 'Tylenol or Aspirin', 
-treatment scans:'Insulin Treatment', 
-diet: 'brown rice or cereals with two eggs daily'
+Often urinating, slow healing of bruises, weightloss:<br>
+pred_diseases:  'Diabetes', <br>
+analgesics: 'Tylenol or Aspirin', <br>
+treatment scans:'Insulin Treatment', <br>
+diet: 'brown rice or cereals with two eggs daily'<br>
 -------> Enter your pincode to see available doctors near by you.
 
-High body temperature, severe headache and tiredness-->
-pred_diseases: 'Fever', 
-analgesics: 'Paracetemol or Aspirin', 
-treatment scans:'Tylenol, Ibuprofen to treat stomach irritation',
-diet:  'fluid intake like gatorage, fruitjuices or milk'
+High body temperature, severe headache and tiredness:<br>
+pred_diseases: 'Fever',<br>
+analgesics: 'Paracetemol or Aspirin',<br>
+treatment scans:'Tylenol, Ibuprofen to treat stomach irritation',<br>
+diet:  'fluid intake like gatorage, fruitjuices or milk'<br>
 -------> Enter your pincode to see available doctors near by you.
 
-Depression, Eating Disorders-->
-pred_diseases:  'Drug or Smoke or Alcohol Addiction',
-analgesics:  'Baclofen, Gebapentin', 
-treatment scans:'Visiting Rehabilitation Centers, Help teens choose good friends and learn to say NO', 
+Depression, Eating Disorders:<br>
+pred_diseases:  'Drug or Smoke or Alcohol Addiction',<br>
+analgesics:  'Baclofen, Gebapentin', <br>
+treatment scans:'Visiting Rehabilitation Centers, Help teens choose good friends and learn to say NO', <br>
 diet: 'Green leafy vegetables'.
 
-Swelling, irritation, breast or nipple pain-->
-pred_diseases: 'Breast Cancer', 
-analgesics: 'Tamoxifen',
-treatment scans: 'heart-smart diet and indulge in physical activity and avoid smoking', 
+Swelling, irritation, breast or nipple pain:<br>
+pred_diseases: 'Breast Cancer', <br>
+analgesics: 'Tamoxifen',<br>
+treatment scans: 'heart-smart diet and indulge in physical activity and avoid smoking', <br>
 diet: 'whole grains, beans, legumes'.
 
-Sudden Confusion, Dizziness, Loss of Banlance-->
-pred_diseases:  'Stroke',
-analgesics:  'Anti-platelet drugs like Plavix', 
-treatment scans:'Clot-bursting therapy', 
+Sudden Confusion, Dizziness, Loss of Banlance:<br>
+pred_diseases:  'Stroke',<br>
+analgesics:  'Anti-platelet drugs like Plavix', <br>
+treatment scans:'Clot-bursting therapy', <br>
 diet: 'Fruits and Vegetables, and avoid salt'.
 
-Shortness of breath, or being inactive--> 
-pred_diseases: 'COPD', 
-analgesics: 'Tudorza or Brovana', 
-treatment scans:'Inhalers and oral steroids',
-diet:  'Eggs, Cheese, Meat, fish, and Poultry'
+Shortness of breath, or being inactive:<br>
+pred_diseases: 'COPD', <br>
+analgesics: 'Tudorza or Brovana', <br>
+treatment scans:'Inhalers and oral steroids',<br>
+diet:  'Eggs, Cheese, Meat, fish, and Poultry'<br>
 -------> Enter your pincode to see available doctors near by you.
 
-Forgetfulness or Confusion-->
-pred_diseases: 'Alzheimer\'s disease', 
-analgesics: 'Aricept or Exelon', 
-treatment scans:'MRI and CT scans',
-diet: 'berries, beans and whole grains'.
+Forgetfulness or Confusion:<br>
+pred_diseases: 'Alzheimer\'s disease', <br>
+analgesics: 'Aricept or Exelon', <br>
+treatment scans:'MRI and CT scans',<br>
+diet: 'berries, beans and whole grains'.<br>
 
-Chest pain, confusion, cough or fatigue-->
-pred_diseases: 'Pneumonia or Influenza', 
-analgesics: 'Levofloxacin', 
-treatment scans:'Plenty of fluids and get lot of rest', 
-diet:'Citrus fruits, Oily fish and Leafy greens'
+Chest pain, confusion, cough or fatigue:<br>
+pred_diseases: 'Pneumonia or Influenza', <br>
+analgesics: 'Levofloxacin',<br>
+treatment scans:'Plenty of fluids and get lot of rest',<br>
+diet:'Citrus fruits, Oily fish and Leafy greens'<br>
 -------> Enter your pincode to see available doctors near by you.
 
-Often urinating, slow healing of bruises, weightloss-->
-pred_diseases:  'Diabetes', 
-analgesics: 'Tylenol or Aspirin', 
-treatment scans:'Insulin Treatment', 
+Often urinating, slow healing of bruises, weightloss:<br>
+pred_diseases:  'Diabetes', <br>
+analgesics: 'Tylenol or Aspirin', <br>
+treatment scans:'Insulin Treatment', <br>
 diet:'Brown rice or cereals with two eggs daily'.
 
-reduced urine, swelling of legs or fatigue-->
-pred_diseases: 'Kidney Disease', 
-analgesics: 'Naproxen or Ibuprofen', 
-treatment scans:'Dialysis', 
+reduced urine, swelling of legs or fatigue:<br>
+pred_diseases: 'Kidney Disease', <br>
+analgesics: 'Naproxen or Ibuprofen', <br>
+treatment scans:'Dialysis', <br>
 diet:'Berries, bell peppers, onions and apples'.
 
-Fever, chills, rapid breathing and heart rate-->
-pred_diseases:  'Blood poisoning', 
-analgesics: 'Ceftriaxone or Azithromycin', 
-treatment scans:'Vasoconstriction to narrow blood vessels',
+Fever, chills, rapid breathing and heart rate:<br>
+pred_diseases:  'Blood poisoning', <br>
+analgesics: 'Ceftriaxone or Azithromycin',<br>
+treatment scans:'Vasoconstriction to narrow blood vessels',<br>
  diet:'Leafy greens like spinach'.
 
-Fragile bones--> 
-pred_diseases: 'Brittle bone disease', 
-analgesics: 'Biphosphonates, calcium and vitamin D supplements',
-treatment scans: 'VitaminD supplements and avoid smoking and alcohol',
+Fragile bones:<br>
+pred_diseases: 'Brittle bone disease', <br>
+analgesics: 'Biphosphonates, calcium and vitamin D supplements',<br>
+treatment scans: 'VitaminD supplements and avoid smoking and alcohol',<br>
 diet:'fruits and foods high on calcium'.
 
-Skin wrinkles and aging-->
-pred_diseases: 'No disease', 
-analgesics: 'Anti-aging creams',
-treatment scans: 'Blepharoplasty surgery to get rid of aging',
+Skin wrinkles and aging:<br>
+pred_diseases: 'No disease', <br>
+analgesics: 'Anti-aging creams',<br>
+treatment scans: 'Blepharoplasty surgery to get rid of aging',<br>
 diet: 'Berries, Broccoli, Papaya, Spinach, Nuts and Avocado'.
 
-Blurry and loss of vision-->
-pred_diseases:  'Mascular Degeneration',
-analgesics:  'Lucentis or Macugen',
-treatment scans: 'Regular exercise and avoid smoking', 
+Blurry and loss of vision:<br>
+pred_diseases:  'Mascular Degeneration',<br>
+analgesics:  'Lucentis or Macugen',<br>
+treatment scans: 'Regular exercise and avoid smoking', <br>
 diet:'Fish and vegetables'.
 
-Blood pressure reading 140 or higher-->
-pred_diseases: 'High blood pressure', 
-analgesics: 'Thiazide diuretics', 
-treatment scans:'Physical activity like exercise and avoid smoking and srinking', 
+Blood pressure reading 140 or higher:<br>
+pred_diseases: 'High blood pressure', <br>
+analgesics: 'Thiazide diuretics', <br>
+treatment scans:'Physical activity like exercise and avoid smoking and srinking', <br>
 diet:'low-fat diary, whole grains and Fruits'.
 
-Trouble sleeping or sleep, mood swings, vaginal dryness-->
-pred_diseases: 'Menopause',
+Trouble sleeping or sleep, mood swings, vaginal dryness:<br>
+pred_diseases: 'Menopause',<br>
 analgesics: 'Isoflav capsules',
-treatment scans: 'Estrogen levels test', 
+treatment scans: 'Estrogen levels test',<br>
 diet:'Fish, Fruits, Vegetables and Diary'.
 
-Cold, Allergies, Nasal problems-->
-pred_diseases:  'Sinusitis', 
-analgesics: 'Acetaminophen or Nasal spray',
-treatment scans: 'Antibiotics like Aspirin and Nasal sprays', 
-diet:'Salmon, Avocados, Cherries and Beans'
+Cold, Allergies, Nasal problems:<br>
+pred_diseases:  'Sinusitis', <br>
+analgesics: 'Acetaminophen or Nasal spray',<br>
+treatment scans: 'Antibiotics like Aspirin and Nasal sprays', <br>
+diet:'Salmon, Avocados, Cherries and Beans'<br>
 -------> Enter your pincode to see available doctors near by you.
 
-Pain while urine and ejaculation-->
-pred_diseases: 'Prostate Cancer',
-analgesics:  'Bicalutamide or Casodex', 
-treatment scans:'Radiation therapy or prostatectomy',
+Pain while urine and ejaculation:<br>
+pred_diseases: 'Prostate Cancer',<br>
+analgesics:  'Bicalutamide or Casodex', <br>
+treatment scans:'Radiation therapy or prostatectomy',<br>
 diet: 'Veggies and fruits and low in meat'.
 
-Trembling body parts and loss of balance-->
-pred_diseases: 'Parkinson\'s disease',
-analgesics:  'Vesoret capsules',
-treatment scans: 'Cardibopa-levodopa', 
+Trembling body parts and loss of balance:<br>
+pred_diseases: 'Parkinson\'s disease',<br>
+analgesics:  'Vesoret capsules',<br>
+treatment scans: 'Cardibopa-levodopa', <br>
 diet:'Fruits and vegetables'.
 
-Buildup of fluids in legs, ankles and legs, tiredness-->
-pred_diseases: 'Heart failure',
-analgesics: 'Carvedilol or Metoprolol',
-treatment scans: 'ACE inhibitors',
+Buildup of fluids in legs, ankles and legs, tiredness:<br>
+pred_diseases: 'Heart failure',<br>
+analgesics: 'Carvedilol or Metoprolol',<br>
+treatment scans: 'ACE inhibitors',<br>
 diet: 'Plain rice, fish, egg, milk and yoghurt'.
 
-difficulty breathing, shortness of breath, chest pain or pressureloss of speech or movement-->
-pred_diseases:Corona Virus ------->
+difficulty breathing, shortness of breath, chest pain or pressureloss of speech or movement:<br>
+pred_diseases:Corona Virus,Heart attack,Angina :<br>
 It is an major disease Please Enter your pincode to see available doctors near by you.
 
-530011-->
-Name:DR. M.Satyarao,
-contactnumber:0891-2709239,
-location:"malkapuram,beside postoffice",
-timings: 6:30pm-9:30pm,
+390019 -->
+Name:Dr Kirti Parikh,<br>
+contactnumber: 0265 251 5163,<br>
+location:"Kirti Complex, Waghodia Rd, near Zavernagar, Parul Society, Prabhat Nagar, Waghodia, Vadodara,",<br>
+timings: 6:30pm-9:30pm,<br>
 Specialist:ENT.
 
-530011-->
-Name:DR. M.Satyarao,
-contactnumber:0891-2709239,
-location:"malkapuram,beside postoffice",
-timings: 6:30pm-9:30pm,
+390002-->
+Name:DR. M.Satyarao,<br>
+contactnumber:0891-2709239,<br>
+location:"malkapuram,beside postoffice",<br>
+timings: 11:00pm-9:30pm,<br>
 Specialist:ENT.
 
-500111-->
-Name:DR. hdgdgfc
-contactnumber:0353453,
-location:"malkapuram,beside postoffice",
-timings: 6:30pm-9:30pm,
+391760-->
+Name:Parul Sevashram Hospital<br>
+contactnumber:098791 85000s,<br>
+location:"P.O. Limda, Tal., Waghodia, Vadodara, Gujarat 391760",<br>
+timings: 24/7,<br>
 Specialist:ENT.

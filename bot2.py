@@ -143,7 +143,7 @@ def chat(user_response):
         else:
             if(user_response.find(keyword) != -1 or user_response.find(keywordone) != -1 or user_response.find(keywordsecond) != -1):
                 #print("ROBO: ",end="")
-                #print(responseone(user_response))
+                #print(response_code(user_response))
                 return responseone(user_response)
                 sent_tokensone.remove(user_response)
             elif(greeting(user_response)!=None):
